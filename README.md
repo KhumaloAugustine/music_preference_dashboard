@@ -86,8 +86,8 @@ Follow these steps to get the dashboard running on your local machine:
 
 ## ✍️ Author
 
-* **Augustine (Your Name)** - [LinkedIn Profile](https://www.linkedin.com/in/your_linkedin_profile_url/)
-    (Please replace `Your Name` and `your_linkedin_profile_url` with your actual details.)
+* **Augustine Khumalo** - [LinkedIn Profile](https://www.linkedin.com/in/augustine-khumalo)
+    
 
 ## 🤝 Contributing
 
@@ -95,4 +95,4 @@ Feel free to fork this repository, suggest improvements, or open issues. Any con
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE) (You can create a LICENSE file if you wish).
+This project is open-source and available under the [MIT License](LICENSE).

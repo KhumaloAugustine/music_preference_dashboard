@@ -6,7 +6,7 @@ This project presents an interactive web dashboard built with Streamlit that pre
 
 -   **Interactive Prediction:** Input your age and gender to get an instant music genre prediction.
 -   **Data Overview:** See a sample of the dataset used for training.
--   **Data Insights:** Visualize distributions of genres, ages, and genre preferences by gender.
+-   **Data Insights:** Visualise distributions of genres, ages, and genre preferences by gender.
 -   **Model Performance:** View the accuracy of the trained Machine Learning model.
 -   **Clear Explanations:** Understand the underlying machine learning concepts.
 
@@ -42,10 +42,9 @@ Follow these steps to get the dashboard running on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/music_preference_dashboard.git](https://github.com/YourGitHubUsername/music_preference_dashboard.git)
-    cd music_preference_dashboard
+    [git clone [https://github.com/YourGitHubUsername/music_preference_dashboard.git](https://github.com/YourGitHubUsername/music_preference_dashboard.git)
+    cd music_preference_dashboard](https://github.com/KhumaloAugustine/music_preference_dashboard.git)
     ```
-    (Replace `YourGitHubUsername` with your actual GitHub username)
 
 2.  **Create a virtual environment (recommended):**
     ```bash

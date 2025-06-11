@@ -82,7 +82,7 @@ Follow these steps to get the dashboard running on your local machine:
 
 ## 🌐 Live Demo
 
-[Link to your deployed Streamlit App will go here once deployed, e.g., `https://yourusername-yourrepo.streamlit.app/`]
+[(https://khumaloaugustine-music-preference-dashboard-app-uzquhu.streamlit.app/)]
 
 ## ✍️ Author
 

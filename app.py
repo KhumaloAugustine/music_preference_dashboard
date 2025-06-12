@@ -181,4 +181,4 @@ st.write(
     """
 )
 st.markdown("---")
-st.write("Developed by Augustine Khumalo | Connect with me on LinkedIn.") # Replace with your name
+st.write("Developed by Augustine Khumalo | Connect with me on LinkedIn.")

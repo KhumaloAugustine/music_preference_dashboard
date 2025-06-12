@@ -1,4 +1,3 @@
-# train_model.py
 # This script trains a Decision Tree Classifier and saves the trained model
 # and the list of unique genres using joblib.
 
